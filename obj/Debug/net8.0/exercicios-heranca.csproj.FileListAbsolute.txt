@@ -1,0 +1,14 @@
+C:\Users\guize\Desktop\Programas\exercicios-heranca\bin\Debug\net8.0\exercicios-heranca.exe
+C:\Users\guize\Desktop\Programas\exercicios-heranca\bin\Debug\net8.0\exercicios-heranca.deps.json
+C:\Users\guize\Desktop\Programas\exercicios-heranca\bin\Debug\net8.0\exercicios-heranca.runtimeconfig.json
+C:\Users\guize\Desktop\Programas\exercicios-heranca\bin\Debug\net8.0\exercicios-heranca.dll
+C:\Users\guize\Desktop\Programas\exercicios-heranca\bin\Debug\net8.0\exercicios-heranca.pdb
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.AssemblyInfoInputs.cache
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.AssemblyInfo.cs
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.csproj.CoreCompileInputs.cache
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.dll
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\refint\exercicios-heranca.dll
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.pdb
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.genruntimeconfig.cache
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\ref\exercicios-heranca.dll
