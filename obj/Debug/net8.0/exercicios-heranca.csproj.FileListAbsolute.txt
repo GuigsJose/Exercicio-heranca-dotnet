@@ -12,3 +12,4 @@ C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\refint\exer
 C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.pdb
 C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.genruntimeconfig.cache
 C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\ref\exercicios-heranca.dll
+C:\Users\guize\Desktop\Programas\exercicios-heranca\obj\Debug\net8.0\exercicios-heranca.sourcelink.json
